@@ -1,5 +1,11 @@
-An old [Pointless Ramblings](http://pointlessramblings.com) design uploaded by [Twitter request](https://twitter.com/alextyrey/status/539558334760640512).
+Some old designs, uploaded by [Twitter request](https://twitter.com/alextyrey/status/539558334760640512).
 
-![Screenshot](./screenshot.png)
+#### POINTLESS RAMBLINGS:
+
+![Screenshot](./pointless_ramblings/screenshot.png)
+
+#### FANATICAL DEV:
+
+![Screenshot](./fanatical_dev/screenshot.jpg)
 
 **License:** MIT

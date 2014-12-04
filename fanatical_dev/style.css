@@ -1,0 +1,89 @@
+body {
+	margin: 0;
+	font-family: Arial;
+	font-size: 16px;
+	line-height: 20px;
+	background: #714D9F;
+}
+
+img {
+	vertical-align: text-top;
+	margin-left: 5px;
+	border: none;
+}
+
+div#white {
+	background: #FFFFFF;
+	float: left;
+	position: absolute;
+	left: 0;
+	right: 287px;
+	top: 357px;
+	padding-bottom: 50px;
+}
+
+h1#title {
+	z-index: 2;
+	height: 357px;
+	width: 100%;
+	text-indent: -2000em;
+	float: right;
+	position: relative;
+	background: #FFFFFF url( 'images/logo.png' ) right center no-repeat;
+	margin: 0;
+}
+	h1#title a {
+		float: right;
+		width: 850px;
+		height: 100%;
+	}
+	
+ul#sites {
+	float: right;
+	position: relative;
+	z-index: 2;
+	margin: 0;
+}
+	ul#sites li {
+		list-style: none;
+		text-align: right;
+		float: left;
+		width: 100%;
+	}
+		ul#sites li span {
+			font-size: 12px;
+			display: block;
+			color: #333333;
+			text-transform: lowercase;
+			float: right;
+			width: 300px;
+		}
+		ul#sites li a {
+			text-decoration: none;
+			color: #714D9F;
+			border-right: 5px solid #E7E7E7;
+			padding: 10px 10px 10px 0;
+			float: right;
+			width: 300px;
+		}
+		ul#sites li a:hover {
+			color: #333333;
+			border-right: 5px solid #D7D7D7;
+		}
+		ul#sites li h2 {
+			padding-right: 15px;
+			font-size: 14px;
+			font-weight: normal;
+			margin-top: 50px;
+			float: right;
+		}
+		ul#sites li:first-child h2 {
+			margin-top: 0;
+		}
+	ul#sites li.social {
+		font-size: 12px;
+		text-transform: lowercase;
+	}
+	ul#sites li#info span {
+		padding-right: 15px;
+	}
